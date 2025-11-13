@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223792621667",
+    "project_id": "ica17-fcm-demo",
+    "storage_bucket": "ica17-fcm-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223792621667:android:2e3f1f1b7e129f3776f056",
+        "android_client_info": {
+          "package_name": "com.example.ica17_fcm_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_XM_Fu2thWb0w-yydkfRPX8FIjj4PjFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
